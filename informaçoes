@@ -1,0 +1,25 @@
+
+/*
+CRIAR A API 
+
+-criar um usuário
+-Listar o usuário
+-Deletar o usuário
+
+
+REQUESTS:
+São as formas de envio
+
+Query params(get): informações na url
++ servidor.com/usuarios?variavelx=x&variavely=y
++ várias informações
+
+Route Params(GET/PUT/DELETE)
++ servidor.com/usuarios/x
++informaçoes específicas
+
+Body Params(GET/POST)
+
+*/
+
+//instala thunder client
